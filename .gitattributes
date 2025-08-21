@@ -1,0 +1,2 @@
+# Treat .py files in this repository as NumPy files
+*.py linguist-language=NumPy
